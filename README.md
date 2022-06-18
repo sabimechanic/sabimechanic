@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sabimechanic
 - 👀 I’m interested in python for data science and cloud computing
-- 🌱 I’m currently learning python, cloud computing
-- 💞️ I’m looking to collaborate on any project on either python to help my learning process.
+- 🌱 I’m currently learning python, SQL, cloud computing
+- 💞️ I’m looking to collaborate on any Data Science project to help my learning process.
 - 📫 How to reach me email;  ebookastanley@gmail 
 
 <!---
